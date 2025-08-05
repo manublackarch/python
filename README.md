@@ -1,2 +1,2 @@
 # python
-python notes, exercises, projects
+python notes, exercises and projects related to data science and cybersecurity
